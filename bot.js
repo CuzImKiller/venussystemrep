@@ -29,7 +29,7 @@ client.on('message', message => {
 if (message.content.startsWith(prefix + 'help')) {
     let pages = [
 	`=-=-=-=-=-= 🌍 Public Commands $ اوامر عامة 🌍 =-=-=-=-=-=
-     ✴ $sug =====> To Suggest | لعمل اقتراح
+    ✴ $sug =====> To Suggest | لعمل اقتراح
     ✴ $id ======> To Show Your ID | ايدي حسابك
     ✴ $ping ====> Ping Of Bot | بنج حك البوت
     ✴ $allbots => Show All Bots In The Server | لاضهار جميع البوتات
